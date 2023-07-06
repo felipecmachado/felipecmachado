@@ -1,9 +1,9 @@
 ### Hi there! My name is Felipe Coelho Machado and I'm currently working as  a Senior .NET Engineer.
 
-I'm a Software Developer with over 12 years of experience developing and designing mainly web solutions and back-end services.
+I'm a Software Developer with over 15 years of experience developing and designing mainly web solutions and back-end services.
 
 - 📧 You can reach me at felipecmachado@outlook.com;
-- 💻 C#, .NET and Javascript;
+- 💻 C#, .NET, SQL and Javascript;
 - 🏢 I'm currently working at [Warren](https://warren.com.br/).
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=felipecmachado&count_private=true&theme=tokyonight&show_icons=true)
